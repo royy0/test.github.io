@@ -1,0 +1,10 @@
+p{
+    height: auto;
+    margin-top: 10px;
+}
+
+img{
+    max-width: 25%;
+    float: left;
+    padding: 3% 7%;
+}
